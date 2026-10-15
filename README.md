@@ -25,11 +25,6 @@ The ESP32 applies the trained linear model to sample inputs and prints the actua
 Run the simulation 
 https://wokwi.com/projects/477954230152116225
 
-1. Open the Wokwi ESP32 project.
-2. Paste `sketch.ino` and `diagram.json` into their matching tabs.
-3. Set `model_weight` and `model_bias` in `sketch.ino` to the values printed by Colab.
-4. Start the simulation and view the results in the Serial Monitor.
-
 ## Example trained parameters
 
 ```cpp
